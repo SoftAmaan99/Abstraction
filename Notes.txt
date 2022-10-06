@@ -1,0 +1,13 @@
+Abstraction:
+1.The process of representing the essential features without including the
+background details is called Abstraction.
+
+2.In simple words, we can say that it is a process of defining a class by
+providing necessary details to call the object operations (i.e. methods) 
+by hiding its implementation details is called abstraction in C#.
+
+3.It means we need to expose what is necessary and compulsory and we need 
+to hide the unnecessary things from the outside world.
+
+Note:-Abstraction lets you focus more on what an object does rather 
+than how it does.
